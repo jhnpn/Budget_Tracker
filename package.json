@@ -1,0 +1,26 @@
+{
+  "name": "budget_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhnpn/Budget_Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhnpn/Budget_Tracker/issues"
+  },
+  "homepage": "https://github.com/jhnpn/Budget_Tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "mongoose": "^5.9.19",
+    "morgan": "^1.10.0"
+  }
+}
